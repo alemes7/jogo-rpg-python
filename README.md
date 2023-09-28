@@ -25,8 +25,8 @@
         </a>
         </td>
         <td align="center">
-        <a href="https://github.com/leonardo25">
-            <img src="https://avatars.githubusercontent.com/leonardo25" width="115px;" alt="Foto_Leonardo"/><br>
+        <a href="https://github.com/leonardoo25">
+            <img src="https://avatars.githubusercontent.com/leonardoo25" width="115px;" alt="Foto_Leonardo"/><br>
             <sub>
             <b>Leonardo</b>
             </sub>
